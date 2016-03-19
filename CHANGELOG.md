@@ -1,6 +1,12 @@
 CHANGELOG
 =========
 
+0.1.1
+-----
+
+Added `conflict` rule to Composer config to prevent having two packages that
+provide the same classes.
+
 0.1.0
 -----
 
