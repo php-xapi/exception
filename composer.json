@@ -1,9 +1,9 @@
 {
-    "name": "xabbuh/xapi-common",
+    "name": "php-xapi/exception",
     "type": "library",
-    "description": "base package for Experience API implementations",
-    "keywords": ["xAPI", "Experience API", "Tin Can API"],
-    "homepage": "https://github.com/php-xapi/xapi-common",
+    "description": "common exception classes for Experience API implementations",
+    "keywords": ["xAPI", "Experience API", "Tin Can API", "exception"],
+    "homepage": "https://github.com/php-xapi/exception",
     "license": "MIT",
     "authors": [
         {
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Xabbuh\\XApi\\Common\\": ""
+            "Xabbuh\\XApi\\Common\\Exception\\": "src"
         }
     },
     "extra": {
