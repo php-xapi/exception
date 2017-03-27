@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+0.2.0
+-----
+
+* Added `UnsupportedStatementVersionException`.
+
 0.1.1
 -----
 
