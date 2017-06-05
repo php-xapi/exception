@@ -4,6 +4,7 @@ CHANGELOG
 0.2.0
 -----
 
+* Added `StatementIdAlreadyExistsException`.
 * Added `UnsupportedStatementVersionException`.
 
 0.1.1
